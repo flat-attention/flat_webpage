@@ -9,7 +9,7 @@ FLAT-Attention
 
 
 # Code Available
-* Coming soon
+Coming soon
 
 # Talks
 ASPLOS'23, [slides](./doc/flat_poster.pdf), [poster](./doc/flat_poster.pdf), [video](https://www.youtube.com/watch?v=qhlUG1Knh6k&t=1s)
